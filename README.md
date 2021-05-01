@@ -1,1 +1,1 @@
-# e-commerce-price-tracker
+# E commerce price tracking App using Django
